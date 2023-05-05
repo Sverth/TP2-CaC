@@ -1,0 +1,23 @@
+
+.bottom-right {
+    position: absolute;
+    bottom: 10vh;
+    right: 16vh;
+  }
+
+.buttom-green {
+    background-color: #2AB613;
+    border-color: #2AB613;
+}
+.margen-card {
+    margin: 7%;
+}
+.padding-zero {
+    padding: 1px;
+}
+
+.footer-color {
+    background-image: linear-gradient(to right,#07363F ,#0A677A);
+
+}
+
